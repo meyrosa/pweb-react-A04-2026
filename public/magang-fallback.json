@@ -1,0 +1,228 @@
+{
+ "jobs": [
+  {
+   "id": 1001,
+   "title": "Frontend Engineering Intern (React & TypeScript)",
+   "company_name": "Nusantara Cloud Tech",
+   "category": "Software Development",
+   "candidate_required_location": "Surabaya (Hybrid)",
+   "salary": "Rp 4.500.000",
+   "tags": [
+    "React",
+    "TypeScript",
+    "CSS",
+    "Git",
+    "REST API"
+   ]
+  },
+  {
+   "id": 1002,
+   "title": "Full-Stack Web Developer Intern",
+   "company_name": "Garuda FinTech",
+   "category": "Software Development",
+   "candidate_required_location": "Jakarta (Remote)",
+   "salary": "Rp 5.500.000",
+   "tags": [
+    "React",
+    "TypeScript",
+    "PostgreSQL",
+    "Express",
+    "Prisma"
+   ]
+  },
+  {
+   "id": 1003,
+   "title": "Software Engineer Intern — Web Platform",
+   "company_name": "Bintang Commerce",
+   "category": "Software Development",
+   "candidate_required_location": "Indonesia (Remote)",
+   "salary": "Rp 6.000.000",
+   "tags": [
+    "React",
+    "TypeScript",
+    "CSS",
+    "Git",
+    "Testing"
+   ]
+  },
+  {
+   "id": 1004,
+   "title": "DevOps & Cloud Infrastructure Intern",
+   "company_name": "AwanMerdeka Cloud",
+   "category": "DevOps",
+   "candidate_required_location": "Jakarta (Remote)",
+   "salary": "Rp 5.200.000",
+   "tags": [
+    "Git",
+    "PostgreSQL",
+    "Linux",
+    "Docker",
+    "CI/CD"
+   ]
+  },
+  {
+   "id": 1005,
+   "title": "Backend Developer Intern (Node.js)",
+   "company_name": "Samudra Logistik",
+   "category": "Software Development",
+   "candidate_required_location": "Bandung (Hybrid)",
+   "salary": "Rp 4.000.000",
+   "tags": [
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "REST API",
+    "Git"
+   ]
+  },
+  {
+   "id": 1006,
+   "title": "Data Analyst Intern",
+   "company_name": "Pelita Data",
+   "category": "Data",
+   "candidate_required_location": "Jakarta (Onsite)",
+   "salary": "Rp 4.200.000",
+   "tags": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Pandas",
+    "Visualization"
+   ]
+  },
+  {
+   "id": 1007,
+   "title": "Machine Learning Intern",
+   "company_name": "Cakrawala AI",
+   "category": "Data",
+   "candidate_required_location": "Surabaya (Hybrid)",
+   "salary": "Rp 5.800.000",
+   "tags": [
+    "Python",
+    "TensorFlow",
+    "Pandas",
+    "Git",
+    "SQL"
+   ]
+  },
+  {
+   "id": 1008,
+   "title": "UI/UX Designer Intern",
+   "company_name": "Kreasi Digital Studio",
+   "category": "Design",
+   "candidate_required_location": "Yogyakarta (Remote)",
+   "salary": "Rp 3.500.000",
+   "tags": [
+    "Figma",
+    "Prototyping",
+    "User Research",
+    "CSS"
+   ]
+  },
+  {
+   "id": 1009,
+   "title": "QA Engineer Intern",
+   "company_name": "Mitra Teknologi Nusantara",
+   "category": "QA",
+   "candidate_required_location": "Jakarta (Onsite)",
+   "salary": "Rp 3.800.000",
+   "tags": [
+    "Testing",
+    "Cypress",
+    "JavaScript",
+    "Git",
+    "Jira"
+   ]
+  },
+  {
+   "id": 1010,
+   "title": "Mobile Developer Intern (Flutter)",
+   "company_name": "Lentera Apps",
+   "category": "Mobile",
+   "candidate_required_location": "Malang (Hybrid)",
+   "salary": "Rp 4.300.000",
+   "tags": [
+    "Flutter",
+    "Dart",
+    "REST API",
+    "Git",
+    "Firebase"
+   ]
+  },
+  {
+   "id": 1011,
+   "title": "Cybersecurity Analyst Intern",
+   "company_name": "BentengSiber",
+   "category": "Security",
+   "candidate_required_location": "Jakarta (Onsite)",
+   "salary": "Rp 4.800.000",
+   "tags": [
+    "Linux",
+    "Networking",
+    "Python",
+    "Wireshark",
+    "Firewall"
+   ]
+  },
+  {
+   "id": 1012,
+   "title": "IoT Engineer Intern",
+   "company_name": "Sensorik Indonesia",
+   "category": "Hardware",
+   "candidate_required_location": "Surabaya (Onsite)",
+   "salary": "Rp 3.900.000",
+   "tags": [
+    "C++",
+    "MQTT",
+    "Arduino",
+    "Python",
+    "Networking"
+   ]
+  },
+  {
+   "id": 1013,
+   "title": "Frontend Developer Intern (Vue)",
+   "company_name": "EduSpark Indonesia",
+   "category": "Software Development",
+   "candidate_required_location": "Indonesia (Remote)",
+   "salary": "Rp 3.600.000",
+   "tags": [
+    "Vue",
+    "JavaScript",
+    "CSS",
+    "Git",
+    "REST API"
+   ]
+  },
+  {
+   "id": 1014,
+   "title": "Data Engineer Intern",
+   "company_name": "Arunika Analytics",
+   "category": "Data",
+   "candidate_required_location": "Bandung (Remote)",
+   "salary": "Rp 5.500.000",
+   "tags": [
+    "Python",
+    "SQL",
+    "Docker",
+    "Airflow",
+    "PostgreSQL"
+   ]
+  },
+  {
+   "id": 1015,
+   "title": "Web Developer Intern (Laravel)",
+   "company_name": "Karya Bangsa Software",
+   "category": "Software Development",
+   "candidate_required_location": "Semarang (Hybrid)",
+   "salary": "Rp 3.700.000",
+   "tags": [
+    "PHP",
+    "Laravel",
+    "MySQL",
+    "CSS",
+    "Git"
+   ]
+  }
+ ]
+}
